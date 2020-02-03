@@ -89,3 +89,6 @@ function questionSlideShow() {
     }
   }
 }
+
+// need to add scoreboard
+// need to add correct and wrong answer
